@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="340" height="180" viewBox="0 0 340 180" role="img" aria-label="lumduan most used languages">
+<rect width="340" height="180" rx="14" fill="#FFFFFF"/>
+<text x="20" y="31" font-size="15" font-weight="800" fill="#E85A9C" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif">Most-used languages</text>
+<text x="20" y="59" font-size="12" font-weight="700" fill="#3A2A4D" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif">Python</text>
+<text x="320" y="59" text-anchor="end" font-size="12" font-weight="600" fill="#6A5A7A" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif">80.0%</text>
+<rect x="20" y="63" width="292" height="6" rx="3" fill="#F1E6F4"/>
+<rect x="20" y="63" width="234" height="6" rx="3" fill="#E85A9C"/>
+<text x="20" y="80" font-size="12" font-weight="700" fill="#3A2A4D" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif">JavaScript</text>
+<text x="320" y="80" text-anchor="end" font-size="12" font-weight="600" fill="#6A5A7A" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif">10.3%</text>
+<rect x="20" y="84" width="292" height="6" rx="3" fill="#F1E6F4"/>
+<rect x="20" y="84" width="30" height="6" rx="3" fill="#9B7BD8"/>
+<text x="20" y="101" font-size="12" font-weight="700" fill="#3A2A4D" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif">TypeScript</text>
+<text x="320" y="101" text-anchor="end" font-size="12" font-weight="600" fill="#6A5A7A" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif">8.8%</text>
+<rect x="20" y="105" width="292" height="6" rx="3" fill="#F1E6F4"/>
+<rect x="20" y="105" width="26" height="6" rx="3" fill="#7BC9B0"/>
+<text x="20" y="122" font-size="12" font-weight="700" fill="#3A2A4D" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif">Shell</text>
+<text x="320" y="122" text-anchor="end" font-size="12" font-weight="600" fill="#6A5A7A" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif">0.4%</text>
+<rect x="20" y="126" width="292" height="6" rx="3" fill="#F1E6F4"/>
+<rect x="20" y="126" width="1" height="6" rx="3" fill="#FFC36B"/>
+<text x="20" y="143" font-size="12" font-weight="700" fill="#3A2A4D" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif">Dockerfile</text>
+<text x="320" y="143" text-anchor="end" font-size="12" font-weight="600" fill="#6A5A7A" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif">0.3%</text>
+<rect x="20" y="147" width="292" height="6" rx="3" fill="#F1E6F4"/>
+<rect x="20" y="147" width="1" height="6" rx="3" fill="#6BB8E8"/>
+<text x="20" y="164" font-size="12" font-weight="700" fill="#3A2A4D" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif">CSS</text>
+<text x="320" y="164" text-anchor="end" font-size="12" font-weight="600" fill="#6A5A7A" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif">0.2%</text>
+<rect x="20" y="168" width="292" height="6" rx="3" fill="#F1E6F4"/>
+<rect x="20" y="168" width="1" height="6" rx="3" fill="#D88BFF"/>
+</svg>

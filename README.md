@@ -58,9 +58,12 @@ I care as much about how a system *fails* as how it performs — these aren't af
 
 ### 📊 By the numbers
 
+<!-- Stats SVGs are regenerated daily by the "Refresh profile stats" GitHub Action
+     (.github/workflows/stats.yml) — no external/third-party service dependency. -->
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lumduan&show_icons=true&include_all_commits=true&hide_border=true&bg_color=ffffff&title_color=E85A9C&text_color=5A4A6A&icon_color=9B7BD8&ring_color=E85A9C" height="165" alt="lumduan's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lumduan&layout=compact&hide_border=true&bg_color=ffffff&title_color=E85A9C&text_color=5A4A6A" height="165" alt="top languages" />
+  <img src="./assets/stats.svg" height="170" alt="lumduan's GitHub stats" />
+  <img src="./assets/languages.svg" height="170" alt="top languages" />
 </p>
 
 ---
