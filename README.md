@@ -5,7 +5,7 @@
 Self-taught since childhood — I started by scripting small tools to solve the problems in front of me, and that habit never left; it just grew in scope. Today I run a one-person quant trading operation end-to-end: home-lab + AWS active-active infrastructure, a Python execution engine trading TFEX derivatives and crypto, and the research behind it — order-flow signals, market microstructure, and risk-managed automated strategies.
 
 <p align="center">
-  <!-- TODO: add LinkedIn badge once profile URL is provided -->
+  <a href="https://www.linkedin.com/in/sarat-sonsuk/"><img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://pypi.org/project/tvkit/"><img src="https://img.shields.io/badge/PyPI-tvkit·settfex·binance--th-3775A9?style=flat-square&logo=pypi&logoColor=white" alt="PyPI" /></a>
   <a href="mailto:b@candythink.com"><img src="https://img.shields.io/badge/Email-say%20hi-E85A9C?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://lumduan.github.io"><img src="https://img.shields.io/badge/Portfolio-lumduan.github.io-9B7BD8?style=flat-square&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
