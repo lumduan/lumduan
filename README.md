@@ -12,7 +12,7 @@ Hi, I'm lumduan 👋 — I run a one-person quant operation, from data infrastru
 
 ### 🚀 Highlighted work
 
-[`tvkit`](https://github.com/lumduan/tvkit) · [`settfex`](https://github.com/lumduan/settfex) · [`thai-securities-data`](https://github.com/lumduan/thai-securities-data) · [`binance-th`](https://github.com/lumduan/binance-th) · [`csm-set`](https://github.com/lumduan/csm-set) · [`quant-execution-engine`](https://github.com/lumduan/quant-execution-engine)
+[`tvkit`](https://github.com/lumduan/tvkit) · [`settfex`](https://github.com/lumduan/settfex) · [`csm-set`](https://github.com/lumduan/csm-set) · [`binance-th`](https://github.com/lumduan/binance-th) · [`thai-securities-data`](https://github.com/lumduan/thai-securities-data)
 
 ### 📈 Currently live
 
