@@ -2,7 +2,7 @@
 
 > **Candythink — Complexity Made Sweet**
 
-Hi, I'm lumduan — I run a one-person quant operation, from data infrastructure to live execution, for **Thai capital markets (SET / TFEX)** and **crypto (Binance, Bitkub)**.
+Hi, I'm Batt — I run a one-person quant operation, from data infrastructure to live execution, for **Thai capital markets (SET / TFEX)** and **crypto (Binance, Bitkub)**.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarat-sonsuk/)
 [![Follow](https://img.shields.io/github/followers/lumduan?label=Follow&style=flat-square&logo=github)](https://github.com/lumduan?tab=followers)
