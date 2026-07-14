@@ -12,17 +12,40 @@ Hi, I'm lumduan — I run a one-person quant operation, from data infrastructure
 
 ### Highlighted work
 
-[`tvkit`](https://github.com/lumduan/tvkit) · [`settfex`](https://github.com/lumduan/settfex) · [`csm-set`](https://github.com/lumduan/csm-set) · [`binance-th`](https://github.com/lumduan/binance-th) · [`thai-securities-data`](https://github.com/lumduan/thai-securities-data)
+| Repo | What |
+|---|---|
+| [`tvkit`](https://github.com/lumduan/tvkit) | Async TradingView market data |
+| [`settfex`](https://github.com/lumduan/settfex) | Thai SET/TFEX data, LLM-ready |
+| [`csm-set`](https://github.com/lumduan/csm-set) | Cross-sectional momentum (live-tested) |
+| [`binance-th`](https://github.com/lumduan/binance-th) | Async Binance Thailand API |
+| [`thai-securities-data`](https://github.com/lumduan/thai-securities-data) | 900+ SET/mai companies, free API |
 
 ### Currently live
 
-[`csm-set`](https://github.com/lumduan/csm-set) — a cross-sectional momentum strategy on the SET, in live testing. *Backtests lie; live P&L doesn't.*
+| Strategy | Status |
+|---|---|
+| [`csm-set`](https://github.com/lumduan/csm-set) | Cross-sectional momentum on the SET — in live testing. *Backtests lie; live P&L doesn't.* |
 
 ### Stats
 
 <!-- STATS:START -->
-- **GitHub:** 22 stars · 42 public repos · 9 followers · 3.9k commits (1y) · 7 forks · since 2015
-- **Languages:** Python 80% · JavaScript 10% · TypeScript 9% · Shell · Dockerfile · CSS
+| Metric | Value |
+|---|---:|
+| Stars | 22 |
+| Public repos | 42 |
+| Followers | 9 |
+| Commits (1y) | 3.9k |
+| Forks | 7 |
+| Member since | 2015 |
+
+| Language | Share |
+|---|---:|
+| Python | 80% |
+| JavaScript | 10% |
+| TypeScript | 9% |
+| Shell | <1% |
+| Dockerfile | <1% |
+| CSS | <1% |
 <!-- STATS:END -->
 
 ---
