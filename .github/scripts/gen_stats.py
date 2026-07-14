@@ -65,6 +65,23 @@ def fmt(n):
     return str(n)
 
 
+def _update_readme_block(stats_line, langs_line):
+    """Replace the plain-text stats block in README.md between the STATS markers
+    (auto-refreshed by the daily Action, so the profile shows live plain-text
+    stats with no image dependency)."""
+    import re
+    try:
+        text = open("README.md", encoding="utf-8").read()
+    except FileNotFoundError:
+        return
+    start, end = "<!-- STATS:START -->", "<!-- STATS:END -->"
+    if start not in text or end not in text:
+        return
+    block = f"{start}\n{stats_line}\n{langs_line}\n{end}"
+    text = re.sub(re.escape(start) + ".*?" + re.escape(end), block, text, flags=re.DOTALL)
+    open("README.md", "w", encoding="utf-8").write(text)
+
+
 def main():
     if not TOKEN:
         print("ERROR: GITHUB_TOKEN (or STATS_TOKEN) not set", file=sys.stderr)
@@ -169,6 +186,15 @@ def main():
     )
     with open("assets/languages.svg", "w") as f:
         f.write(langs_svg)
+
+    # plain-text stats block in README (auto-refreshed by this Action)
+    _stats_line = (f"- **GitHub:** {total_stars} stars · {repo_count} public repos · "
+                   f"{followers} followers · {fmt(commits)} commits (1y) · "
+                   f"{total_forks} forks · since {since}")
+    _lang_parts = [f"{n} {b*100/total_lang:.0f}%" if b*100/total_lang >= 1 else n
+                   for n, b in top]
+    _langs_line = "- **Languages:** " + " · ".join(_lang_parts)
+    _update_readme_block(_stats_line, _langs_line)
 
     print(f"OK: stars={total_stars} repos={repo_count} followers={followers} "
           f"commits1y={commits} forks={total_forks} since={since}")
