@@ -20,19 +20,5 @@ Hi, I'm Batt — I build quantitative trading systems, data infrastructure to li
 | [`binance-th`](https://github.com/lumduan/binance-th) | Async Binance Thailand API | PyPI |
 | [`thai-securities-data`](https://github.com/lumduan/thai-securities-data) | 900+ SET/mai companies, free API | API |
 
-### Stats
-
-<!-- STATS:START -->
-| Metric | Value | Language | Share |
-|---|---:|---|---:|
-| Stars | 22 | Python | 80% |
-| Public repos | 42 | JavaScript | 10% |
-| Followers | 9 | TypeScript | 9% |
-| Commits (1y) | 3.9k | Shell | <1% |
-| Forks | 7 | Dockerfile | <1% |
-| Member since | 2015 | CSS | <1% |
-<!-- STATS:END -->
-
-Connect — [LinkedIn](https://www.linkedin.com/in/sarat-sonsuk/) · [email](mailto:b@candythink.com)
 
 <!-- candythink · lumduan profile readme -->
