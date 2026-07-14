@@ -21,7 +21,7 @@ Hi, I'm lumduan — I run a one-person quant operation, from data infrastructure
 ### Stats
 
 <!-- STATS:START -->
-- **GitHub:** 22 stars · 42 public repos · 9 followers · 3.9k commits (1y) · 7 forks · since 2015
+- **GitHub:** 22 stars · 42 public repos · 9 followers · 1.3k commits (1y) · 7 forks · since 2015
 - **Languages:** Python 80% · JavaScript 10% · TypeScript 9% · Shell · Dockerfile · CSS
 <!-- STATS:END -->
 
