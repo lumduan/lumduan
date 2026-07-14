@@ -25,3 +25,5 @@ Hi, I'm lumduan 👋 — I run a one-person quant operation, from data infrastru
 ---
 
 Always happy to connect → [LinkedIn](https://www.linkedin.com/in/sarat-sonsuk/) · [email](mailto:b@candythink.com)
+
+<!-- candythink · lumduan profile readme -->
