@@ -24,4 +24,4 @@ Hi, I'm lumduan 👋 — I run a one-person quant operation, from data infrastru
 
 ---
 
-🇸🇬 Next chapter: Singapore · always happy to connect → [LinkedIn](https://www.linkedin.com/in/sarat-sonsuk/) · [email](mailto:b@candythink.com)
+Always happy to connect → [LinkedIn](https://www.linkedin.com/in/sarat-sonsuk/) · [email](mailto:b@candythink.com)
