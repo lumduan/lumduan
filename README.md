@@ -29,23 +29,14 @@ Hi, I'm Batt — I run a one-person quant operation, from data infrastructure to
 ### Stats
 
 <!-- STATS:START -->
-| Metric | Value |
-|---|---:|
-| Stars | 22 |
-| Public repos | 42 |
-| Followers | 9 |
-| Commits (1y) | 3.9k |
-| Forks | 7 |
-| Member since | 2015 |
-
-| Language | Share |
-|---|---:|
-| Python | 80% |
-| JavaScript | 10% |
-| TypeScript | 9% |
-| Shell | <1% |
-| Dockerfile | <1% |
-| CSS | <1% |
+| Metric | Value | Language | Share |
+|---|---:|---|---:|
+| Stars | 22 | Python | 80% |
+| Public repos | 42 | JavaScript | 10% |
+| Followers | 9 | TypeScript | 9% |
+| Commits (1y) | 3.9k | Shell | <1% |
+| Forks | 7 | Dockerfile | <1% |
+| Member since | 2015 | CSS | <1% |
 <!-- STATS:END -->
 
 ---

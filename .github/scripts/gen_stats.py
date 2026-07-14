@@ -187,8 +187,9 @@ def main():
     with open("assets/languages.svg", "w") as f:
         f.write(langs_svg)
 
-    # markdown-table stats block in README (auto-refreshed by this Action)
-    _stats_rows = [
+    # single combined stats table in README (auto-refreshed by this Action)
+    from itertools import zip_longest
+    _metrics = [
         ("Stars", str(total_stars)),
         ("Public repos", str(repo_count)),
         ("Followers", str(followers)),
@@ -196,14 +197,14 @@ def main():
         ("Forks", str(total_forks)),
         ("Member since", str(since)),
     ]
-    _stats_tbl = "| Metric | Value |\n|---|---:|\n" + "\n".join(
-        f"| {k} | {v} |" for k, v in _stats_rows)
-    _lang_rows = [
-        f"| {n} | {b*100/total_lang:.0f}% |" if b*100/total_lang >= 1
-        else f"| {n} | <1% |" for n, b in top
+    _langs = [
+        (n, f"{b*100/total_lang:.0f}%" if b*100/total_lang >= 1 else "<1%")
+        for n, b in top
     ]
-    _langs_tbl = "| Language | Share |\n|---|---:|\n" + "\n".join(_lang_rows)
-    _update_readme_block(_stats_tbl + "\n\n" + _langs_tbl)
+    _rows = list(zip_longest(_metrics, _langs, fillvalue=("", "")))
+    _tbl = ("| Metric | Value | Language | Share |\n|---|---:|---|---:|\n"
+            + "\n".join(f"| {m[0]} | {m[1]} | {l[0]} | {l[1]} |" for m, l in _rows))
+    _update_readme_block(_tbl)
 
     print(f"OK: stars={total_stars} repos={repo_count} followers={followers} "
           f"commits1y={commits} forks={total_forks} since={since}")
