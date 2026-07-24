@@ -2,17 +2,17 @@
 <rect width="340" height="180" rx="14" fill="#FFFFFF"/>
 <text x="20" y="31" font-size="15" font-weight="800" fill="#E85A9C" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif">Most-used languages</text>
 <text x="20" y="59" font-size="12" font-weight="700" fill="#3A2A4D" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif">Python</text>
-<text x="320" y="59" text-anchor="end" font-size="12" font-weight="600" fill="#6A5A7A" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif">76.9%</text>
+<text x="320" y="59" text-anchor="end" font-size="12" font-weight="600" fill="#6A5A7A" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif">76.8%</text>
 <rect x="20" y="63" width="292" height="6" rx="3" fill="#F1E6F4"/>
 <rect x="20" y="63" width="224" height="6" rx="3" fill="#E85A9C"/>
 <text x="20" y="80" font-size="12" font-weight="700" fill="#3A2A4D" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif">TypeScript</text>
-<text x="320" y="80" text-anchor="end" font-size="12" font-weight="600" fill="#6A5A7A" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif">12.2%</text>
+<text x="320" y="80" text-anchor="end" font-size="12" font-weight="600" fill="#6A5A7A" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif">12.3%</text>
 <rect x="20" y="84" width="292" height="6" rx="3" fill="#F1E6F4"/>
 <rect x="20" y="84" width="36" height="6" rx="3" fill="#9B7BD8"/>
 <text x="20" y="101" font-size="12" font-weight="700" fill="#3A2A4D" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif">JavaScript</text>
-<text x="320" y="101" text-anchor="end" font-size="12" font-weight="600" fill="#6A5A7A" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif">9.8%</text>
+<text x="320" y="101" text-anchor="end" font-size="12" font-weight="600" fill="#6A5A7A" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif">9.7%</text>
 <rect x="20" y="105" width="292" height="6" rx="3" fill="#F1E6F4"/>
-<rect x="20" y="105" width="29" height="6" rx="3" fill="#7BC9B0"/>
+<rect x="20" y="105" width="28" height="6" rx="3" fill="#7BC9B0"/>
 <text x="20" y="122" font-size="12" font-weight="700" fill="#3A2A4D" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif">Shell</text>
 <text x="320" y="122" text-anchor="end" font-size="12" font-weight="600" fill="#6A5A7A" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif">0.6%</text>
 <rect x="20" y="126" width="292" height="6" rx="3" fill="#F1E6F4"/>
